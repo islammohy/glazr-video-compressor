@@ -39,6 +39,10 @@ The app includes FFmpeg (GPLv3), Qt/PySide6 (LGPLv3) and the IBM Plex Sans Arabi
 (OFL). Their licenses are in the app's `licenses` folder, and each release includes the
 FFmpeg source code it was built from.
 
+## Privacy policy
+
+Full text: [PRIVACY.md](PRIVACY.md).
+
 ## Problems and ideas
 
 Open an [issue](https://github.com/islammohy/glazr-video-compressor/issues). Please don't
