@@ -31,7 +31,9 @@ This repository holds downloads only. The application's source code is not publi
 
 Compression happens on your computer. When online, the app downloads one banner and the
 newest version number from igy-apps.com, sending only the app name, the system, the
-language and where it was installed from. Offline, the banner is a link to the website.
+language and where it was installed from. igy-apps.com keeps daily totals of these values
+and of banner clicks, with no IP address and no device or user identifier. Offline, the
+banner is a link to the website.
 
 ## Open-source parts
 

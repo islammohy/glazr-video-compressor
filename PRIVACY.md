@@ -1,6 +1,6 @@
 # Glazr Video Compressor: privacy policy
 
-Last updated: October 30, 2026. Applies to Glazr Video Compressor for Windows and macOS,
+Last updated: November 2, 2026. Applies to Glazr Video Compressor for Windows and macOS,
 from GitHub, the Microsoft Store or links on igy-apps.com. Publisher: IGY Apps (igy-apps.com).
 
 ## Your videos stay on your computer
@@ -19,9 +19,13 @@ of the window and for the newest version number. The request contains only:
 - the language of the app (`ar`, `en`, `fr` or `de`)
 - where it was installed from (`direct` or `store`)
 
-There is no device ID, account, name, email address, or anything about your videos. The
-igy-apps.com server, like any website, sees the computer's IP address when it answers; IGY
-Apps does not use it to identify anyone. Banner pictures come from igy-apps.com too.
+There is no device ID, account, name, email address, or anything about your videos.
+
+igy-apps.com keeps **daily totals** of these four values (for example "120 Windows copies in
+Arabic today") and of clicks on each banner. It does not store IP addresses or any device or
+user identifier, so the totals cannot be linked to a person or a computer. Totals are
+deleted after 400 days. The server, like any website, sees the computer's IP address while
+it answers; IGY Apps does not record it. Banner pictures come from igy-apps.com too.
 
 Offline, the app sends nothing and shows a link to igy-apps.com instead of the banner.
 Everything else works the same.
@@ -31,7 +35,9 @@ Everything else works the same.
 Banners are chosen by IGY Apps. Most show other IGY Apps products. A banner for another
 company is labelled "Ad". The app has no third-party advertising or analytics code, sets no
 tracking cookies and does not build a profile. Clicking a banner opens the link in your
-browser; from there, that website's own policy applies.
+browser. The link first passes through igy-apps.com, which adds one to that banner's click
+total and then opens the page; links to igy-apps.com get campaign tags (utm) so the site
+can see that the visit came from the app. From there, that website's own policy applies.
 
 ## Stored on your computer
 
@@ -58,8 +64,9 @@ published on this page with a new date.
 
 **مع الإنترنت** يطلب البرنامج من igy-apps.com إعلانًا واحدًا لأسفل النافذة ورقم أحدث إصدار،
 ويرسل فقط: اسم البرنامج، والنظام (ويندوز أو ماك)، ولغة البرنامج، ومصدر التثبيت (متجر أو تنزيل
-مباشر). لا معرّف للجهاز ولا حساب ولا اسم ولا بريد. خادم الموقع، مثل أي موقع، يرى عنوان IP
-عند الرد، ولا تستخدمه IGY Apps للتعرّف على أحد.
+مباشر). لا معرّف للجهاز ولا حساب ولا اسم ولا بريد. يحتفظ igy-apps.com **بأعداد يومية إجمالية**
+لهذه القيم الأربع وللضغطات على كل إعلان، بلا عنوان IP وبلا أي معرّف للجهاز أو المستخدم، فلا
+يمكن ربطها بشخص أو جهاز، وتُحذف بعد 400 يوم.
 
 **بدون إنترنت** لا يرسل البرنامج شيئًا، ويعرض رابط igy-apps.com بدل الإعلان، وكل شيء آخر يعمل
 كما هو.
