@@ -1,6 +1,6 @@
 # Glazr Video Compressor
 
-Free video compressor for **Windows 10/11** and **macOS** by [IGY Apps](https://igy-apps.com).
+Free video compressor for **macOS** and **Windows 10/11** by [IGY Apps](https://igy-apps.com).
 Drop videos, pick where they will be sent (WhatsApp, Email, Discord, Telegram,
 Instagram/TikTok, YouTube, or "under N MB"), press Compress.
 
@@ -12,18 +12,17 @@ Instagram/TikTok, YouTube, or "under N MB"), press Compress.
 
 ## Download
 
-Get the newest version from **[Releases](https://github.com/islammohy/glazr-video-compressor/releases/latest)**:
+**macOS** (Apple Silicon: M1 or newer, macOS 12 Monterey or newer): download
+`Glazr-Video-Compressor-<version>-macOS-arm64.dmg` from
+**[the latest release](https://github.com/islammohy/glazr-video-compressor/releases/latest)**,
+open it and drag the app to Applications. The app is signed with a Developer ID and
+notarized by Apple. Intel Macs are not supported in this version.
 
-| System | File |
-|---|---|
-| Windows 10/11 (64-bit) | `Glazr-Video-Compressor-<version>-Windows-x64-Setup.exe` (or the portable `.zip`) |
-| macOS, Apple Silicon (M1 and later) | `Glazr-Video-Compressor-<version>-macOS-arm64.dmg` |
-| macOS, Intel | `Glazr-Video-Compressor-<version>-macOS-x64.dmg` |
+**Windows 10/11:** coming to the
+[Microsoft Store](https://apps.microsoft.com/detail/9PH5QVRFLH2Q).
 
 Check a download against `SHA256SUMS.txt` in the same release if you like:
-`certutil -hashfile <file> SHA256` on Windows, `shasum -a 256 <file>` on macOS.
-
-Windows may show "Windows protected your PC" for a new release. Choose **More info › Run anyway**.
+`shasum -a 256 <file>`.
 
 This repository holds downloads only. The application's source code is not public.
 
@@ -54,15 +53,18 @@ attach private videos.
 
 # Glazr Video Compressor بالعربية
 
-برنامج مجاني لضغط الفيديو على **ويندوز 10/11** و**ماك** من [IGY Apps](https://igy-apps.com).
+برنامج مجاني لضغط الفيديو على **ماك** و**ويندوز 10/11** من [IGY Apps](https://igy-apps.com).
 اسحب الفيديوهات، واختر أين سترسلها (واتساب، البريد، ديسكورد، تيليجرام، إنستجرام/تيك توك،
 يوتيوب، أو «أقل من N ميجابايت»)، ثم اضغط «ضغط».
 
 - يعمل **بدون إنترنت**، والفيديوهات لا تغادر جهازك، والأصل لا يتغيّر أبدًا.
 - بلا علامة مائية، وبلا حد لطول الفيديو، وبلا نسخة مدفوعة.
 
-**التنزيل:** من صفحة [الإصدارات](https://github.com/islammohy/glazr-video-compressor/releases/latest).
-لويندوز ملف `Setup.exe`، ولماك ملف `.dmg` (‏arm64 لأجهزة M1 وما بعدها، وx64 لأجهزة Intel).
-إذا ظهرت رسالة «Windows protected your PC» اضغط **More info** ثم **Run anyway**.
+**ماك** (معالج Apple: ‏M1 أو أحدث، وmacOS 12 أو أحدث): نزّل ملف `.dmg` من
+[آخر إصدار](https://github.com/islammohy/glazr-video-compressor/releases/latest)، وافتحه، واسحب
+البرنامج إلى مجلد التطبيقات. البرنامج موقّع ومعتمد من Apple. أجهزة ماك بمعالج Intel غير مدعومة
+في هذا الإصدار.
+
+**ويندوز 10/11:** قريبًا من [Microsoft Store](https://apps.microsoft.com/detail/9PH5QVRFLH2Q).
 
 ![Glazr Video Compressor بالعربية](docs/ar-dark-running.png)
